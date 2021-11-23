@@ -1,9 +1,3 @@
-/**
- * @name Tri Pham
- * @Filename Main.java
- * @Assigment Project 2 ACP
- * @about small line of code to run the project
- */
 package application;
 	
 import javafx.application.Application;
