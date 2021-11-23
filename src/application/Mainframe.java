@@ -1,10 +1,3 @@
-/**
- * @name Tri Pham
- * @Filename Mainframe.java
- * @Assigment Project 2 ACP
- * @about all buttons and menu are access here
- */
-
 package application;
 
 import java.io.BufferedReader;
